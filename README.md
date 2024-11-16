@@ -26,6 +26,11 @@ Adding link to interesting reads and books that have helped.
   12) Goroutines Under The Hood: https://osmh.dev/posts/goroutines-under-the-hood [!!! very nice blog]
   13) https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
 
+## **Language Specific Resources:**
+  1) SQL: https://sqlbolt.com/
+  2) C++: https://app.programiz.pro/course/learn-cpp-basics/get-started
+  3) Golang: https://gobyexample.com/
+
 ## **Interesting Question:**
   1) https://softwareengineering.stackexchange.com/questions/455589/sqlite-design-use-of-variable-length-integers-explain-the-design-flaw
   2) https://softwareengineering.meta.stackexchange.com/questions/6629/how-do-i-explain-something-to-someone/6630#6630
