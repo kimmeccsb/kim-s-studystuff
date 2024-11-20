@@ -12,19 +12,22 @@ Adding link to interesting reads and books that have helped.
   3) Any of Pat Helland's blogs:
      a) https://highscalability.com/paper-immutability-changes-everything-by-pat-helland/
      b) Normalization is for Sissies: https://slideplayer.com/slide/8600105/
-  4) Microservices vs SOA architectures: https://www.oreilly.com/radar/microservices-vs-service-oriented-architecture/
-  5) ^^ O'Reilly PDF: https://www.developertoarchitect.com/downloads/microservices-vs-soa.pdf
-  6) Any of the Zerodha Tech Blogs:
+     c) Data on the Outside versus Data on the Insiden: https://www.cidrdb.org/cidr2005/papers/P12.pdf
+  5) Microservices vs SOA architectures: https://www.oreilly.com/radar/microservices-vs-service-oriented-architecture/
+  6) ^^ O'Reilly PDF: https://www.developertoarchitect.com/downloads/microservices-vs-soa.pdf
+  7) Any of the Zerodha Tech Blogs:
      a) https://zerodha.tech/blog/hello-world/
      b) https://zerodha.tech/blog/working-with-postgresql/
      c) https://zerodha.tech/blog/user-disengagement/
-  7) Any of Kailash Nadh's blogs: https://nadh.in/blog/
-  8) Retries and Retry Interceptors: https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6
-  9) Iterators in Go: https://bitfieldconsulting.com/posts/iterators
-  10) https://blog.codingconfessions.com/p/gpu-computing
-  11) Ending Microservices Chaos - How Architecture Governance Keeps Your Microservices on Track:: https://levelup.gitconnected.com/ending-microservices-chaos-c1babe7bd061
-  12) Goroutines Under The Hood: https://osmh.dev/posts/goroutines-under-the-hood [!!! very nice blog]
-  13) https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
+  8) Any of Kailash Nadh's blogs: https://nadh.in/blog/
+  9) Retries and Retry Interceptors: https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6
+  10) Iterators in Go: https://bitfieldconsulting.com/posts/iterators
+  11) https://blog.codingconfessions.com/p/gpu-computing
+  12) Ending Microservices Chaos - How Architecture Governance Keeps Your Microservices on Track:: https://levelup.gitconnected.com/ending-microservices-chaos-c1babe7bd061
+  13) Goroutines Under The Hood: https://osmh.dev/posts/goroutines-under-the-hood [!!! very nice blog]
+  14) What is the Log?: https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
+  15) Questioning the Lambda Architecture: https://www.oreilly.com/radar/questioning-the-lambda-architecture/
+      
 
 ## **Language Specific Resources:**
   1) SQL: https://sqlbolt.com/
